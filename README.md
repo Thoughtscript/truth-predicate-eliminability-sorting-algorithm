@@ -19,7 +19,7 @@ For the more recent: ***Classical Extensions of Kripke-Feferman: Constraint Sati
 
 ## Context
 
-There's widespread consensus that no offered solution to the **Liar Paradox** gets all of the following:
+There's widespread consensus that no (previously) offered solution to the **Liar Paradox** gets all of the following:
 1. All the other **Alethic Paradoxes**: *Yablo-Visser*, *Liar Cycles*, *Revenge Sentences*, *Boolean Compounds*, *Curry Compounds*, *McGee Sentences*, etc.
 2. No ***touted*** "philosophical (non-formal/mathematical) solution" can prove its formal correctness (**Soundness**, **Completeness**, **Consistency**, Metalogical Theorems, address **Tarski's Undefiniability Theorem**, etc.). (These are mostly what you'd find on the SEP article about the **Liar Paradox**.)
 3. No formal solution can explain the big "philosophical why" (it must explain the problem) while addressing issues of formal correctness. It mustn't just be an ad-hoc trick of mathematical machinery.
