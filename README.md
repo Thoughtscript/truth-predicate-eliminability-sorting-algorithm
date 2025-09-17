@@ -1,5 +1,10 @@
 # Truth-Predicate-Eliminability-Sorting-Algorithm
 
+[![](https://img.shields.io/badge/Solomon-Feferman-blue.svg)](https://www.kva.se/en/prize-laureate/solomon-feferman-2/)
+[![](https://img.shields.io/badge/Saul-Kripke-red.svg)](https://www.kva.se/en/prize-laureate/saul-a-kripke-2/)
+[![](https://img.shields.io/badge/JC-Beall-lightblue.svg)](https://philosophy.nd.edu/people/faculty/jc-beall/)
+[![](https://img.shields.io/badge/Graham-Priest-black.svg)](https://grahampriest.net/)
+
 *WIP* (*Future Thesis and/or Dissertation.*)
 
 The original paper (2013-2014) was conferenced and referred to two of the top Logic journals in the English-speaking world (and much to my surprise!) but I declined to begin the lengthy (often 2+ years) academic publication process.
