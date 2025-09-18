@@ -246,6 +246,8 @@ With **F-Scheme** also **Weakened** (e.g. - `¬T(S) ↔ F(S)` will sometimes fai
 
 > To be clearer still: therefore, the many great religions of the world (as well as their opposites - their heresies) - Orthodox Christianity, Catholicism, Islam, Hinduism, Buddhism, Judaism, and many more still - along with the greatest mathematical and scientific theorists, Hegelians, Platonists, Aristotelians, and all the other major views of philosophy about Truth can be inclusively accommodated. **KFG** *does not* rule on which of these interpretations is correct but *it's the only view that does not rule any of them out*. In this way it is thoroughly pluralist and inclusive of the world's greatest ideas.
 
+> Whereas, historically, "Eastern" (Indian, Chinese, Sanskrit) and "Western" (Greek, Arabic) views on Truth and Logic have been seen as fundamentally disjoint. **KFG** suggests that they're in fact two sides of the very same coin, a sublation of seemingly mutually contradictory opposites, they're two perspectives formed of one mind, and a "Grand Unification" (if you will) of these multi-millennia-spanning approaches. 
+ 
 Please note that the above can all be **Consistently** captured within a **Two-Value**, **Bivalent**, **Classical** Semantics. We've relaxed the requirements on `T()` and `F()` per the above.
 
 This is the only proposed system that can accomodate all the additional items below:
