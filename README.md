@@ -85,6 +85,8 @@ S := T(⟨S⟩)
 ### Alethic Paradox
 
 > From [Dictionary.com](https://www.dictionary.com/browse/alethic): **Alethic** "of or relating to such philosophical concepts as truth, necessity, possibility, contingency, etc".
+
+> From [Mirriam-Webster](https://www.merriam-webster.com/dictionary/alethic): **Alethic** "of or relating to truth".
 1. **Alethic Paradox** - for any sentence `S`: The shortest proof resulting in **Contradiction** that requires the use of **T-Scheme** (**F-Schema**, or our other **Alethic** inferences including proven biconditionals involving the
 **Truth Predicate**).
 
@@ -244,7 +246,7 @@ With **F-Scheme** also **Weakened** (e.g. - `¬T(S) ↔ F(S)` will sometimes fai
 
 > To be clearer still: therefore, the many great religions of the world (as well as their opposites - their heresies) - Orthodox Christianity, Catholicism, Islam, Hinduism, Buddhism, Judaism, and many more still - along with the greatest mathematical and scientific theorists, Hegelians, Platonists, Aristotelians, and all the other major views of philosophy about Truth can be inclusively accommodated. **KFG** *does not* rule on which of these interpretations is correct but *it's the only view that does not rule any of them out*. In this way it is thoroughly pluralist and inclusive of the world's greatest ideas.
 
-Please note that the above can all be **Consistently** captured within a **Two-Value**, **Bivalent**, **Classical** Semantics. We've relaxed the required on `T()` and `F()` per the above.
+Please note that the above can all be **Consistently** captured within a **Two-Value**, **Bivalent**, **Classical** Semantics. We've relaxed the requirements on `T()` and `F()` per the above.
 
 This is the only proposed system that can accomodate all the additional items below:
 1. Parallels intuitions that motivate **3-Value Semantics**.
