@@ -297,7 +297,7 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
       * There are at least two ways to prove this  - both make use of the Classical Tautology (Material) **Weakening** (whose Truth Table is included above for clarity).
          * First approach: let `(p → q)` stand for each half the **T-Scheme** and `c` be the Proposition `S ∈ C`. Both halves jointly entail **KFG**. (Proof. Obvious.)
          * Second approach: substitute `P` for `(p → q)` (`P → (c → P)`, which happens to be equivalent to `c → (p → q)` with substitutions), let `P` stand for `T-Scheme is Analytic (Tautological)`, and `c` be the Proposition `S ∈ C`. Since a Consequent's being **Analytic** (**Tautological**) cannot change the Truth Value of its **Material Implications**, so too is:
-           *  `P → (C → P) is Analytic (Tautological)` 
+           *  `P → (C → P)` (e.g. - `P → (C → P) is Analytic (Tautological)`) 
                * `T-Scheme is Analytic (Tautological) → (S ∈ C → T-Scheme is Analytic (Tautological))` 
                * `S ∈ C → T-Scheme is Analytic (Tautological)` is also a **Analytic** (**Tautological**) since if `T-Scheme is Analytic (Tautological)` is `True` (which is presupposed by the **Material Conditional**), then `S ∈ C → T-Scheme is Analytic (Tautological)` must always be `True` as well (which is the relevant definition of a **Tautology** here - e.g. **Necessary Truth**).
    * If **Restricted T-Scheme** isn't **Analytic** (**Tautological**), then **T-Scheme** isn't (by **Modus Tollens**). But, then **T-Scheme** would be **Restricted** in some form (or just wrong) undermining the alternatives.
