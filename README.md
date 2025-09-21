@@ -278,8 +278,29 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
 ## Key Philosophical Arguments
 
 1. The **Argument from Tautology**:
-   * If **T-Scheme** is **Analytic**, then so is **Restricted T-Scheme** (by Classical inferential **Weakening**)
-   * If **Restricted T-Scheme** isn't **Analytic**, then **T-Scheme** isn't (**Modus Tollens**). But, then **T-Scheme** would be **Restricted** in some form (or just wrong) undermining the alternatives.
+   * For simplicity's sake, let **Analyticity** (**Tautology**) be defined as **Necessary Truth** (a standard Mathematical definition). 
+     * To be clear, more expansive notions of **Tautology** and **Analyticity** are *not* the relevant notions here, only **Necessary Truth** (e.g. - **True** under any **Interpretation Assignment**). 
+     * A more nit-picky philosopher might protest that these terms are strictly overlapping. Not much is lost by agreeing but for convention's sake, I'll still refer to these interchangeably (and one may feel free to substitute any of the three terms as they so choose).
+   * If **T-Scheme** is **Analytic** (**Tautological**), then so is **Restricted T-Scheme** (by Classical inferential **Weakening**).
+     * Inferential (Material) **Weakening**:
+         | `p` | `q` | `p → q` | `c` | `c → (p → q)` | `(p → q) → (c → (p → q))` |
+         | --- | --- | --- | --- | --- | --- |
+         | `T` | `T` | `T` (`T → T`) | `T` | `T` (`T → T`) | `T` (`T → T`) |
+         | `T` | `T` | `T` (`T → T`) | `F` | `T` (`F → T`) | `T` (`T → T`) |
+         | `T` | `F` | `F` (`T → F`) | `T` | `F` (`T → F`) | `T` (`F → F`) |
+         | `T` | `F` | `F` (`T → F`) | `F` | `T` (`F → F`) | `T` (`F → T`) |
+         | `F` | `T` | `T` (`F → T`) | `T` | `T` (`T → T`) | `T` (`T → T`) |
+         | `F` | `T` | `T` (`F → T`) | `F` | `T` (`F → T`) | `T` (`T → T`) |
+         | `F` | `F` | `T` (`F → F`) | `T` | `T` (`T → T`) | `T` (`T → T`) |
+         | `F` | `F` | `T` (`F → F`) | `F` | `T` (`F → T`) | `T` (`T → T`) |
+
+      * There are at least two ways to prove this  - both make use of the Classical Tautology (Material) **Weakening** (whose Truth Table is included above for clarity).
+         * First approach: let `(p → q)` stand for each half the **T-Scheme** and `c` be the Proposition `S ∈ C`. Both halves jointly entail **KFG**. (Proof. Obvious.)
+         * Second approach: substitute `P` for `(p → q)` (`P → (c → P)`, which happens to be equivalent to `c → (p → q)` with substitutions), let `P` stand for `T-Scheme is Analytic (Tautological)`, and `c` be the Proposition `S ∈ C`. Since a Consequent's being **Analytic** (**Tautological**) cannot change the Truth Value of its **Material Implications**, so too is:
+           *  `P → (C → P) is Analytic (Tautological)` 
+               * `T-Scheme is Analytic (Tautological) → (S ∈ C → T-Scheme is Analytic (Tautological))` 
+               * `S ∈ C → T-Scheme is Analytic (Tautological)` is also a **Analytic** (**Tautological**) since if `T-Scheme is Analytic (Tautological)` is `True` (which is presupposed by the **Material Conditional**), then `S ∈ C → T-Scheme is Analytic (Tautological)` must always be `True` as well (which is the relevant definition of a **Tautology** here - e.g. **Necessary Truth**).
+   * If **Restricted T-Scheme** isn't **Analytic** (**Tautological**), then **T-Scheme** isn't (by **Modus Tollens**). But, then **T-Scheme** would be **Restricted** in some form (or just wrong) undermining the alternatives.
      * If **T-Scheme** is **Restricted**, it collapses into **KFG**.
      * If not, then we have no reason to defend **T-Scheme** in the first place.
 2. The **Argument from Overgeneration**:
