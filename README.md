@@ -283,12 +283,12 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
      * If **T-Scheme** is **Restricted**, it collapses into **KFG**.
      * If not, then we have no reason to defend **T-Scheme** in the first place.
 2. The **Argument from Overgeneration**:
-   * As a corollary to the above, any supposed solution (theory) *TH* that were to entail, be committed to, or satisfy **T-Scheme** being **Analytic** would entail **KFG**.
-   * Thus, for any such solution *TH* that were to solve **Alethic Paradox**, **KFG** would already be present (or coincident) with *TH*. (Note: this inferential relationship is not symmetric: **KFG** *does not* entail *TH*.)
-   * Since, **KFG** solves **Alethic Paradox** independently (for the reasons given above and below), *TH* either solves **Alethic Paradox** *twice* or *solely* because **KFG** is coincident with it.
-   * But if *TH* solves **Alethic Paradox** *solely* because **KFG** does, it collapses into **KFG**.
-   * Buf if *TH* solves **Alethic Paradox** *twice* where **KFG** is entailed by *TH* and **KFG** solves **Alethic Paradox** *alone*, *TH* is unnecessary (overgenerates, by parsimony).
-   * Therefore, either *TH* collapses into **KFG** or *TH* is unnecessary (overgenerates, by parsimony) since **KFG** solves **Alethic Paradox** independently. 
+   * As a corollary to the above, any supposed solution (theory) `TH` that were to entail, be committed to, or satisfy **T-Scheme** being **Analytic** would entail **KFG**.
+   * Thus, for any such solution `TH` that were to solve **Alethic Paradox**, **KFG** would already be present (or coincident) with `TH`. (Note: this inferential relationship is not symmetric: **KFG** *does not* entail `TH`.)
+   * Since, **KFG** solves **Alethic Paradox** independently (for the reasons given above and below), `TH` either solves **Alethic Paradox** *twice* or *solely* due to **KFG** being coincident with it.
+   * But if `TH` solves **Alethic Paradox** *solely* because **KFG** does, it collapses into **KFG**.
+   * Buf if `TH` solves **Alethic Paradox** *twice* where **KFG** is entailed by `TH` and **KFG** solves **Alethic Paradox** *alone*, `TH` is unnecessary (overgenerates, by parsimony).
+   * Therefore, either `TH` collapses into **KFG** or `TH` is unnecessary (overgenerates, by parsimony) since **KFG** solves **Alethic Paradox** independently. 
 3. The **Argument from History**:
    * Every supposedly Universal (scientific) Law, Scientific Theory, and Mathematical Axiom has been proven False (Globally or Locally - the so-called *Pessimistic Meta-Induction*). Examples: Relativity only applies at the "macro-level", Hyperbolic Geometry which rejects Axioms of Euclidean Geometry, etc.
    * Truth is a scientific and natural language phenomena (Linguistics is the science of language).
