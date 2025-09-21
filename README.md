@@ -280,7 +280,7 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
 1. The **Argument from Tautology**:
    * For simplicity's sake, let **Analyticity** (**Tautology**) be defined as **Necessary Truth** (a standard Mathematical definition). 
      * To be clear, more expansive notions of **Tautology** and **Analyticity** are *not* the relevant notions here, only **Necessary Truth** (e.g. - **True** under any **Interpretation Assignment**). 
-     * A more nit-picky philosopher might protest that these terms are strictly overlapping. Not much is lost by agreeing but for convention's sake, I'll still refer to these interchangeably (and one may feel free to substitute any of the three terms as they so choose).
+     * A more nit-picky philosopher might protest that these terms aren't strictly overlapping. Not much is lost by agreeing but for convention's sake, I'll still refer to these interchangeably (and one may feel free to substitute any of the three terms as they so choose).
    * If **T-Scheme** is **Analytic** (**Tautological**), then so is **Restricted T-Scheme** (by Classical inferential **Weakening**).
      * Inferential (Material) **Weakening**:
          | `p` | `q` | `p → q` | `c` | `c → (p → q)` | `(p → q) → (c → (p → q))` |
