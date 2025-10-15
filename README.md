@@ -52,6 +52,7 @@ Formal definitions.
 4. **Axioms for Truth** - the Mathematically precise general Semantics and behavior of the word `Truth` in Natural (and Artificial) Language - e.g. it's **Inferential Properties** (for reasoning), the valid moves/language norms allowed in discourse/social activities, it's Linguistic Definition especially in consideration of the Liar Paradox. 
    * From an applied standpoint: people definitely talk about the **Liar Paradox** (Tarski's ***Semantic Conception of Truth*** is one of the most cited papers of all time).
    * How does one correctly parse, understood, or define these concepts in **Large Language Models**? In **Word Vector** notation, is the computed distance for `True(S)` and `S` within a Corpus equivalent?
+   * From the frontiers of Computer Science: is **KFG** a suitable Sequent, Tableux, or other semantic, contextual, or denotational Rule we'd use within Monoidal Semantics?
    * This topic is the concern of Linguistics (the Scientific study of Language), Philosophy of Language, etc.
 
 > This paper is concerned with the latter two topics. It is not concerned with altering  or understanding **Fact**. It seeks instead to address a long-standing problem with the **Truth Predicate** and how we are to use it in Mathematics, Logic, and other technical disciplines.
@@ -110,7 +111,8 @@ May circumvent general concerns stemming from [**Bacon 2015**](https://andrew-ba
 * Invalidates the move from **P1** to **P2** (by Substitution or Diagonalization).
 * Sorted expressions are nevertheless given **Truth-Values** and don't entail **Untruth** (or **Falsity**).
 * So, both **Truth Opaque** and non-**Truth Opaque Sentences** are allowed - they are not "banned" or "outlawed".
-* Not clear that **Diagonalization** is legitimate for such **Sorted Expressions**. In the original papers by Gödel, **Diagonalization** is justified only up to and for *primitive recursive number-theoretic function*(s). As such, it's not clear a **Revenge**-type **Sentence** can be constructed at all for **KFG**.
+* Not clear that **Diagonalization** is legitimate for such **Sorted Expressions**. In the original papers by Gödel, **Diagonalization** is justified only up to and for *primitive recursive number-theoretic function*(s). As such, it's not clear a **Revenge**-type **Sentence** can be constructed from the get-go for **KFG** (since they require a **Diagonal Predicate** in their construction).
+  * Per the above: and even if we were to allow the construction of such a **Revenge**-type **Sentence** `R` in **KFG**, it doesn't satisfy the formal criteria to result in **Contradiction** (e.g. - that **Diagonal Predicate** `C` in `R` must entail **Untruth** or **Falsity**).
 * **Truth Opaque Expressions** aren't necessarily **Theorems** nor are the assertions of them as such.
 * The conclusion of the argument is essentially that **KFG** will prove a Theorem that's **Truth Opaque**.  Consider the unproblematic Sentence: `S := T(S) → T(S)` - it's a Theorem, receives Truth Values, and is **Truth Opaque**.
 
@@ -344,7 +346,8 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
 1. Tarski, A. The Semantic Conception of Truth and the Foundations of Semantics. Philosophy And Phenomenological Research. 4, 341-376 (1943)
 1. https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#true-is-not-equal--but-not-equal--too
 1. https://logic.pku.edu.cn/ann_attachments/the%20outline%20of%20a%20new%20solution%20to%20the%20liar%20paradox134720412881.pdf
-
+1. https://www.cs.ox.ac.uk/people/bob.coecke/Vincent.pdf
+1. https://www.brunogavranovic.com/assets/FundamentalComponentsOfDeepLearning.pdf
 
 
 
