@@ -51,7 +51,7 @@ Formal definitions.
    * *See below.*
 4. **Axioms for Truth** - the Mathematically precise general Semantics and behavior of the word `Truth` in Natural (and Artificial) Language - e.g. it's **Inferential Properties** (for reasoning), the valid moves/language norms allowed in discourse/social activities, it's Linguistic Definition especially in consideration of the Liar Paradox. 
    * From an applied standpoint: people definitely talk about the **Liar Paradox** (Tarski's ***Semantic Conception of Truth*** is one of the most cited papers of all time).
-   * How does one correctly parse, understood, or define these concepts in **Large Language Models**? In **Word Vector** notation, is the computed distance for `True(S)` and `S` within a Corpus equivalent?
+   * How does one correctly parse, understand, or define these concepts in **Large Language Models**? In **Word Vector** notation, is the computed distance for `True(S)` and `S` within a Corpus equivalent?
    * From the frontiers of Computer Science: is **KFG** a suitable Sequent, Tableux, or other semantic, contextual, or denotational Rule we'd use within Monoidal Semantics?
    * This topic is the concern of Linguistics (the Scientific study of Language), Philosophy of Language, etc.
 
@@ -348,6 +348,4 @@ I think this is akin to subfields like the debate between `S4` vs `S5 Modal Logi
 1. https://logic.pku.edu.cn/ann_attachments/the%20outline%20of%20a%20new%20solution%20to%20the%20liar%20paradox134720412881.pdf
 1. https://www.cs.ox.ac.uk/people/bob.coecke/Vincent.pdf
 1. https://www.brunogavranovic.com/assets/FundamentalComponentsOfDeepLearning.pdf
-
-
-
+1. https://pmc.ncbi.nlm.nih.gov/articles/PMC7077364/
