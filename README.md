@@ -264,7 +264,7 @@ This is the only proposed system that can accomodate all the additional items be
 
 ## Extensions
 
-So, **KFG** opens the door to a fully **Classical**, **Monistic** (single Truth Predicate), and **Restrictionism** (as a topic in multiple debates: Logical Nihilism, Logical Skepticism, Alethic Paradox, etc.). 
+So, **KFG** opens the door to a fully **Classical**, **Monistic** (single Truth Predicate), and **Restrictionist** (as a topic in multiple debates: Logical Nihilism, Logical Skepticism, Alethic Paradox, etc.) approach. 
 
 By selecting extensible constructions variants of **KFG** strengthen certain features discussed above:
 
