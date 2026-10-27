@@ -17,6 +17,10 @@ For the more recent: ***Classical Extensions of Kripke-Feferman: Constraint Sati
 
 > Mirrored: https://thoughtscript-io.onrender.com/papers/000000000013.html
 
+For AI-Verification of **KFG** in Lean: 
+
+> https://github.com/Thoughtscript/truth-predicate-eliminability-sorting-algorithm-lean
+
 ## Context
 
 There's widespread consensus that no (previously) offered solution to the **Liar Paradox** gets all of the following:
