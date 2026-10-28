@@ -51,6 +51,10 @@ const TEST_CASES = {
     // Haskell Curry
     CURRY_SENTENCE: ["S := T(S) → ⊥"],
 
+    // Andrew Bacon
+    // https://philarchive.org/rec/BACCTC
+    BACON_SENTENCE: ["𝛾 := 𝛾 ↔ (H(⌜𝛾⌝) → ¬T(⌜𝛾⌝))"],
+
     /*
         Direct and Indirect Reference example from original paper: 
         https://thoughtscript-io.onrender.com/papers/000000000002.html
