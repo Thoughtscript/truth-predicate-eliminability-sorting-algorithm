@@ -139,6 +139,7 @@ const checkHasTruthPredicate = data => {
         const RE = new RegExp(/T.*\(\⟨*/g), F = currentExp.match(RE)
 
         // If so, stop. Roughly, O(1) for all of the above examples.
+        // We can also require T to be left-most side "prefixed" for stricter matcher and performance optimization at this point.
         if (F && F.length) {
             logDebug(`Truth Predicate found in: ${currentExp} ...`)
             return true
